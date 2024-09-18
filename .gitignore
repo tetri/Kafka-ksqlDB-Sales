@@ -1,0 +1,11 @@
+/.github/
+/.vscode/
+/ProductsGenerator/.vs/
+/ProductsGenerator/bin/
+/ProductsGenerator/obj/
+/SalesAPI/.vs/
+/SalesAPI/bin/
+/SalesAPI/obj/
+/SalesGenerator/.vs/
+/SalesGenerator/bin/
+/SalesGenerator/obj/
